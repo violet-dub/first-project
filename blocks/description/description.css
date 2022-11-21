@@ -1,0 +1,8 @@
+.description {
+    margin: 0px;
+    margin: 100px auto;
+    display: flex; 
+    justify-content: center;
+    box-sizing: border-box;
+}
+
